@@ -1,9 +1,3 @@
-//24P-3118 Muhammad Kaif
-//24P-3116 Ghulam Muhammad
-
-
-
-
 
 #include<stdio.h>
 #include<string.h>
