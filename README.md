@@ -1,11 +1,11 @@
 
-Mehfooz Wallet
+## Mehfooz Wallet
 
 Mehfooz Wallet is a simple C-based console application that allows users to manage their personal finances. 
 This project includes features for creating accounts, managing balances, transferring funds, paying utility 
 bills, and more.
 
-Features
+## Features
 
 - **Create Account**: Users can create new accounts with unique account numbers.
 - **Check Balance**: Displays the current balance of a user’s account.
@@ -38,6 +38,7 @@ The project consists of a single source file:
 
 - **Muhammad Kaif** (24P-3118)
 - **Ghulam Muhammad** (24P-3116)
+- **Umer Danish** (24P-3071)
 
 ## Notes
 
